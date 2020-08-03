@@ -6,10 +6,4 @@ Belakangan di group [Telegram JVM](https://t.me/JVMUserGroup) banyak muncul pert
 
 Secara garis besar, belajarnya bisa mengikuti diagram dibawah ini
 
-```mermaid
-graph LR
-X[Algoritma Dasar] --> A
-A[Java Basic] --> B[Java Web]
-A --> C[Android]
-```
-
+![Diagram belajar Java mulai dari mana](images/diagram.png)
