@@ -10,7 +10,7 @@ Ibaratnya main game RPG yang punya `skill tree` berbeda untuk tiap Job yang berb
 
 ![Diagram belajar Java mulai dari mana](images/diagram.png)
 
-## Algoritma Dasar
+## Materi Dasar
 
 Biasanya gw selalu mulai dengan basic computer science knowledge, hal ini berguna untuk mempersiapkan basic dan pondasi yang kuat sebelum belajar Java. Untuk memulai, berikut rekomendasi beberapa sumber yang berbeda seperti buku, ebook, blog, atau channel youtube yang idealnya dibaca beserta tujuannya.
 
@@ -18,3 +18,4 @@ Biasanya gw selalu mulai dengan basic computer science knowledge, hal ini bergun
 | ------ | ------ |
 | Donald Knuth - The Art of Computer Programming | Baca basic concept of algorithm di [chapter 1](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming#Volume_1_%E2%80%93_Fundamental_Algorithms) |
 | Konsep dari [Computational Thinking](https://www.youtube.com/watch?v=qbnTZCj0ugI) | Belajar cara memecahkan masalah dengan metode komputasional |
+| Sourcecode Management dengan [Git](https://git-scm.com/book/en/v2) | Memahami cara me-manage sourcecode seperti commit, push, resolve conflict, rollback, blame, branching, merging, tagging dan semacamnya |
